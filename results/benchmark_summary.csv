@@ -1,0 +1,4 @@
+method,cost_rupees
+Exact classical,8.244444444444445
+Best QAOA trial,8.244444444444445
+Mean feasible QAOA,11.349333333333337

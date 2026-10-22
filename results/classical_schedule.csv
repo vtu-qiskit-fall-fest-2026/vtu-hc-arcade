@@ -1,0 +1,7 @@
+hour_local_solar_time,running_zones,estimated_pv_kw,pump_load_kw,grid_import_kw,grid_cost_rupees,water_delivered_litres
+7,None,0.187,0.0,0.0,0.0,0.0
+8,None,0.502,0.0,0.0,0.0,0.0
+9,Zone_A,0.871,1.5,0.629,4.402222222222223,500.0
+10,Zone_B,1.169,1.5,0.331,2.3177777777777777,500.0
+11,Zone_A,1.369,1.5,0.131,0.9177777777777782,500.0
+12,Zone_B,1.413,1.5,0.087,0.6066666666666667,500.0
