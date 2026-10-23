@@ -12,11 +12,13 @@ VTU-QFF-HC-0081 | Tier: Online
 | **Live Web App** | [https://q-irrigate.vercel.app/](https://q-irrigate.vercel.app/) |
 | **Backend API** | [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/) |
 | **Demo Video** | [YouTube Video Demonstration](https://youtu.be/ldBrTwl1X3g) |
+| **Presentation Slides** | [Google Drive Slide Deck](https://drive.google.com/file/d/14Kcfa8z6sZ5AknrZTEUQq7x-D9uolIZK/view?usp=sharing) |
 
 > ### 🌐 Live Production Deployment
 > 🚀 **Live Agricultural Web Dashboard**: [https://q-irrigate.vercel.app/](https://q-irrigate.vercel.app/)  
 > ⚙️ **Live Backend REST API**: [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/)  
 > 🎥 **Video Demonstration**: [https://youtu.be/ldBrTwl1X3g](https://youtu.be/ldBrTwl1X3g)  
+> 📊 **Presentation Slides (PPT)**: [Google Drive Presentation](https://drive.google.com/file/d/14Kcfa8z6sZ5AknrZTEUQq7x-D9uolIZK/view?usp=sharing)  
 > 
 > > 🔑 **Reviewer / Evaluator Superadmin Credentials**  
 > > To inspect and test all platform features (Live QAOA Scheduler, SHAP Anomaly Diagnostics, User Approvals, Audit Logs & Telemetry):  
@@ -397,7 +399,7 @@ git pull --rebase       # update your branch on top of main
 | 🌐 **Live Web Application** | [https://q-irrigate.vercel.app/](https://q-irrigate.vercel.app/) | Production Next.js 16 + React 19 Agricultural Dashboard |
 | ⚙️ **Live Backend API** | [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/) | Deployed Django REST Framework + Qiskit QAOA Engine |
 | 🎥 **Video Demonstration** | [YouTube Video Demonstration](https://youtu.be/ldBrTwl1X3g) | Complete 4-5 min walkthrough of the Q-IRRIGATE platform on YouTube |
-| 📊 **Presentation Slides (PPT)** | `[Upload Link Pending / To Be Uploaded]` | Official Qiskit Fall Fest 2026 Presentation Slide Deck |
+| 📊 **Presentation Slides (PPT)** | [Official Presentation Slides (Google Drive)](https://drive.google.com/file/d/14Kcfa8z6sZ5AknrZTEUQq7x-D9uolIZK/view?usp=sharing) | Official Qiskit Fall Fest 2026 Presentation Slide Deck |
 
 ### 🔑 Reviewer / Evaluator Demo Credentials
 
