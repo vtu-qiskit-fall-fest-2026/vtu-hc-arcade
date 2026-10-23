@@ -14,7 +14,13 @@ VTU-QFF-HC-0081 | Tier: Online
 
 > ### 🌐 Live Production Deployment
 > 🚀 **Live Agricultural Web Dashboard**: [https://q-irrigate.vercel.app/](https://q-irrigate.vercel.app/)  
-> ⚙️ **Live Backend REST API**: [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/)
+> ⚙️ **Live Backend REST API**: [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/)  
+> 
+> > 🔑 **Reviewer / Evaluator Superadmin Credentials**  
+> > To inspect and test all platform features (Live QAOA Scheduler, SHAP Anomaly Diagnostics, User Approvals, Audit Logs & Telemetry):  
+> > - **Email / Username**: `chhayakantamaharan@gmail.com`  
+> > - **Password**: `SuperAdmin@2026.`  
+> > - **Role**: `SuperAdmin` (Full Administrative Access)
 
 ---
 
@@ -390,6 +396,16 @@ git pull --rebase       # update your branch on top of main
 | ⚙️ **Live Backend API** | [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/) | Deployed Django REST Framework + Qiskit QAOA Engine |
 | 🎥 **Video Demonstration** | [Google Drive Demo Video](https://drive.google.com/file/d/1PWJwRrE8ZBCqMUuaamUs-eNdtq-LGcYy/view?usp=sharing) | Complete 4-5 min walkthrough of the Q-IRRIGATE platform |
 | 📊 **Presentation Slides (PPT)** | `[Upload Link Pending / To Be Uploaded]` | Official Qiskit Fall Fest 2026 Presentation Slide Deck |
+
+### 🔑 Reviewer / Evaluator Demo Credentials
+
+For hackathon judges and evaluators to access and verify all system components without registering a new account:
+
+| Role | Email / Login ID | Password | Access Level |
+| :--- | :--- | :--- | :--- |
+| **SuperAdmin** | `chhayakantamaharan@gmail.com` | `SuperAdmin@2026.` | Full platform control (QAOA run, user approvals, audit log, XAI) |
+
+*(Note: Reviewers can also use the desktop IoT Edge Gateway or submit live schedules directly through the web UI using these credentials).*
 
 ---
 

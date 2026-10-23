@@ -141,9 +141,9 @@ def generate_composite_figure():
     for bar, prob in zip(h_bars2, probabilities):
         h = bar.get_height()
         ax_h.text(bar.get_x() + bar.get_width() / 2, h + 0.008, f"{prob*100:.1f}%", ha='center', va='bottom', fontsize=9, fontweight='bold', color='#0F172A')
-    ax_h.set_title("QAOA Sampled State Probability Distribution (Histogram)", fontsize=11, fontweight='bold', pad=10)
+    ax_h.set_title("QAOA Sampled State Probability Distribution", fontsize=11, fontweight='bold', pad=15)
     ax_h.set_ylabel("Measurement Probability |<x|psi>|^2", fontsize=9.5, fontweight='bold')
-    ax_h.set_ylim(0, 0.32)
+    ax_h.set_ylim(0, 0.38)
     ax_h.tick_params(axis='x', labelsize=8)
     ax_h.grid(axis='y', linestyle=':', alpha=0.6)
     fig2.savefig(ROOT / "plot_qaoa_histogram.png", dpi=300, bbox_inches='tight')
