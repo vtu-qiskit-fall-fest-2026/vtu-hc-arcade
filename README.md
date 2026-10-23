@@ -9,6 +9,12 @@ VTU-QFF-HC-0081 | Tier: Online
 | **Repository** | [vtu-hc-arcade](https://github.com/vtu-qiskit-fall-fest-2026/vtu-hc-arcade.git) |
 | **Organisation** | [vtu-qiskit-fall-fest-2026](https://github.com/vtu-qiskit-fall-fest-2026) |
 | **Event** | VTU-QFF Hackathon — VTU-Qiskit Fall Fest 2026 |
+| **Live Web App** | [https://q-irrigate.vercel.app/](https://q-irrigate.vercel.app/) |
+| **Backend API** | [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/) |
+
+> ### 🌐 Live Production Deployment
+> 🚀 **Live Agricultural Web Dashboard**: [https://q-irrigate.vercel.app/](https://q-irrigate.vercel.app/)  
+> ⚙️ **Live Backend REST API**: [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/)
 
 ---
 
@@ -376,6 +382,15 @@ git pull --rebase       # update your branch on top of main
 | 🎓 Qiskit textbook | [https://qiskit.qotlabs.org/learning/](https://qiskit.qotlabs.org/learning/) |
 | 📋 GitHub Docs | [https://docs.github.com/](https://docs.github.com/) |
 
+## 🔗 Project Links & Submissions
+
+| Resource | Link / Access | Description |
+| :--- | :--- | :--- |
+| 🌐 **Live Web Application** | [https://q-irrigate.vercel.app/](https://q-irrigate.vercel.app/) | Production Next.js 16 + React 19 Agricultural Dashboard |
+| ⚙️ **Live Backend API** | [https://q-irrigate-backend.onrender.com/api/](https://q-irrigate-backend.onrender.com/api/) | Deployed Django REST Framework + Qiskit QAOA Engine |
+| 🎥 **Video Demonstration** | [Google Drive Demo Video](https://drive.google.com/file/d/1PWJwRrE8ZBCqMUuaamUs-eNdtq-LGcYy/view?usp=sharing) | Complete 4-5 min walkthrough of the Q-IRRIGATE platform |
+| 📊 **Presentation Slides (PPT)** | `[Upload Link Pending / To Be Uploaded]` | Official Qiskit Fall Fest 2026 Presentation Slide Deck |
+
 ---
 
 ## 📄 License
@@ -385,3 +400,4 @@ Released under the [MIT License](https://github.com/vtu-qiskit-fall-fest-2026/vt
 ---
 
 **Arcade** · Team ID **VTU-QFF-HC-0081** · Tier **Online** · Built with ⚛️ **Qiskit** for the **VTU-QFF Hackathon**
+
